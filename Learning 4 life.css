@@ -2,12 +2,14 @@
 	width: 100%;
 	position: relative;
 }
-#navbar {
- `float: center;
 
+.menu {
+	width:20%;
+	position:relative;
+	float:left;
+	background-color:#65BAA7; 
+	text-align:center;
 }
-
-
 
 
 .navbar {
